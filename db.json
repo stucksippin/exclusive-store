@@ -1,0 +1,235 @@
+{
+    "FlashSalesArray": [
+        {
+            "id": 1,
+            "name": "HAVIT HV-G92 Gamepad",
+            "newCost": "120$",
+            "lastCost": "160$",
+            "image": "/img/flash/gamepad.png",
+            "stars": 5,
+            "description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive."
+        },
+        {
+            "id": 2,
+            "name": "AK-900 Wired Keyboard",
+            "newCost": "960$",
+            "lastCost": "1160$",
+            "image": "/img/flash/keyboard.png",
+            "stars": 4
+        },
+        {
+            "id": 3,
+            "name": "IPS LCD Gaming Monitor",
+            "newCost": "370$",
+            "lastCost": "400$",
+            "image": "/img/flash/monitor.png",
+            "stars": 4
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        }
+    ],
+    "BestSellingArray": [
+        {
+            "id": 5,
+            "name": "The north coat",
+            "newCost": "260$",
+            "lastCost": "360$",
+            "image": "/img/best/jacket.png",
+            "stars": 5
+        },
+        {
+            "id": 6,
+            "name": "Gucci duffle bag",
+            "newCost": "960$",
+            "lastCost": "1160$",
+            "image": "/img/best/gucci.png",
+            "stars": 4
+        },
+        {
+            "id": 7,
+            "name": "RGB liqu CPU Cooler",
+            "newCost": "160$",
+            "lastCost": "170$",
+            "image": "/img/best/video.png",
+            "stars": 4
+        },
+        {
+            "id": 8,
+            "name": "Small BookSelf",
+            "newCost": "360$",
+            "lastCost": "400$",
+            "image": "/img/best/shelf.png",
+            "stars": 5
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "HAVIT HV-G92 Gamepad",
+            "newCost": "120$",
+            "lastCost": "160$",
+            "image": "/img/flash/gamepad.png",
+            "stars": 5,
+            "description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive."
+        },
+        {
+            "id": 2,
+            "name": "AK-900 Wired Keyboard",
+            "newCost": "960$",
+            "lastCost": "1160$",
+            "image": "/img/flash/keyboard.png",
+            "stars": 4,
+            "description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive."
+        },
+        {
+            "id": 3,
+            "name": "IPS LCD Gaming Monitor",
+            "newCost": "370$",
+            "lastCost": "400$",
+            "image": "/img/flash/monitor.png",
+            "stars": 4
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "newCost": "375$",
+            "lastCost": "400$",
+            "image": "/img/flash/chair.png",
+            "stars": 5
+        },
+        {
+            "id": 5,
+            "name": "The north coat",
+            "newCost": "260$",
+            "lastCost": "360$",
+            "image": "/img/best/jacket.png",
+            "stars": 5
+        },
+        {
+            "id": 6,
+            "name": "Gucci duffle bag",
+            "newCost": "960$",
+            "lastCost": "1160$",
+            "image": "/img/best/gucci.png",
+            "stars": 4
+        },
+        {
+            "id": 7,
+            "name": "RGB liqu CPU Cooler",
+            "newCost": "160$",
+            "lastCost": "170$",
+            "image": "/img/best/video.png",
+            "stars": 4
+        },
+        {
+            "id": 8,
+            "name": "Small BookSelf",
+            "newCost": "360$",
+            "lastCost": "400$",
+            "image": "/img/best/shelf.png",
+            "stars": 5
+        }
+    ]
+}
